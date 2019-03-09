@@ -1,7 +1,7 @@
 # CircuitPython Automated Car Playground
 # Version 0.0 Update Libraries/CircuitPython
 # Version 0.1 Pre-Car Connection testing
-# Version 0.2 Use Git
+# Version 0.2 Use Git for Versioning
 
 
 # Functionality to Model
